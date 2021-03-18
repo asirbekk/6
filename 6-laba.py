@@ -1,20 +1,23 @@
 #1-заданий
 # d = {'1а': 16, '1б': 22, '6а': 30, '7в': 25, '10б': 26, '11а': 33, '11б': 26 }
+# print(d)
 
 #2-заданий
-# print(d)
+
 # d = {3: 'three', 2: 'two', 1: 'one'}
 # a = {'three': 3,  'two': 2, 'one': 1 }
- 
+# print(d,'  ',a)
+
+
 #3-заданий# 
-#print("What is your name? ")
+# print("What is your name? ")
 # name = str(input())
 # print("How old are your? ")
 # age = int(input())
 # print("Where are you live")
 # live = str(input())
 # print("This is ", name , "It is ", age,"(S)He live in ", live)
-# 
+
 #4-заданий
 #
 # d = {1: ["Python", 33.2, 'UP'],
@@ -24,3 +27,4 @@
 #      5: ["Groovy", 9.22, 'DOWN'],
 #      6: ["C", 1.55, 'UP']
 #      }
+# print(d)
